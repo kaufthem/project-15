@@ -1,3 +1,11 @@
+# React Gallery App
+
+Add a config.js file in the src directory with the following format:
+```
+const apiKey = 'YOUR API KEY';
+export default apiKey;
+```
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
